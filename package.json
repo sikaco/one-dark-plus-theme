@@ -14,7 +14,8 @@
     "atom",
     "theme",
     "dark",
-    "one dark"
+    "one dark",
+    "atom one dark"
   ],
   "icon": "icon.png",
   "contributes": {
