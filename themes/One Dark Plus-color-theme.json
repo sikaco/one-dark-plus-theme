@@ -12,7 +12,7 @@
 		"diffEditor.insertedTextBackground": "#00809B33",
 		"dropdown.background": "#43484D",
 		"dropdown.border": "#181A1F",
-		"editor.background": "#212835",
+		"editor.background": "#1b2022",
 		"editor.lineHighlightBackground": "#2C313A",
 		"editor.selectionBackground": "#3E4451",
 		"editorCursor.foreground": "#528BFF",
@@ -95,7 +95,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9",
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -259,7 +259,7 @@
 				"string"
 			],
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#a8b5d0"
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -642,7 +642,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -660,7 +660,7 @@
 				"markup.raw"
 			],
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 				"source.js keyword.operator"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -842,7 +842,7 @@
 				"source.json meta.structure.array.json > value.json > string.quoted.json > punctuation"
 			],
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -852,7 +852,7 @@
 				"source.json meta.structure.array.json > constant.language.json"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -928,7 +928,7 @@
 			"name": "[VSCODE-CUSTOM] Punctuation for Quoted String",
 			"scope": "string.quoted.double punctuation",
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -970,7 +970,7 @@
 				"source.ts.embedded.html keyword.operator"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -1181,7 +1181,7 @@
 				"source.tsx keyword.operator"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9",
 			}
 		},
 		{
@@ -1204,7 +1204,7 @@
 				"constant.language.import-export-all.tsx"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
@@ -1261,7 +1261,7 @@
 				"source.tsx meta.template.expression.tsx punctuation.accessor"
 			],
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"name": "[VSCODE-CUSTOM] Markdown Inline Raw",
 			"scope": "markup.inline.raw.markdown",
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -1431,7 +1431,7 @@
 			"name": "[VSCODE-CUSTOM] Ruby Keyword Operator Other",
 			"scope": "keyword.operator.other.ruby",
 			"settings": {
-				"foreground": "#70F49C"
+				"foreground": "#96d361"
 			}
 		},
 		{
@@ -1520,7 +1520,7 @@
 				"support.type.property-name.css"
 			],
 			"settings": {
-				"foreground": "#59f2f7"
+				"foreground": "#61d9e9"
 			}
 		},
 		{
