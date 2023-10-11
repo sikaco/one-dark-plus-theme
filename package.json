@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-plus-theme",
+  "displayName": "One Dark Plus Theme",
+  "description": "A better color theme was optimized from One Dark Space Gray Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Plus-color-theme.json"
+      }
+    ]
+  }
+}
