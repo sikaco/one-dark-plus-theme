@@ -12,7 +12,7 @@
 		"diffEditor.insertedTextBackground": "#00809B33",
 		"dropdown.background": "#43484D",
 		"dropdown.border": "#181A1F",
-		"editor.background": "#1F242E",
+		"editor.background": "#1D232F",
 		"editor.lineHighlightBackground": "#2C313A",
 		"editor.selectionBackground": "#3E4451",
 		"editorCursor.foreground": "#528BFF",
@@ -28,7 +28,7 @@
 		"editorSuggestWidget.border": "#181A1F",
 		"editorSuggestWidget.selectedBackground": "#2C313A",
 		"editorWidget.background": "#1b212c",
-		"input.background": "#1F242E",
+		"input.background": "#1D232F",
 		"input.border": "#181A1F",
 		"focusBorder": "#528BFF",
 		"list.activeSelectionBackground": "#252d3b",
@@ -50,8 +50,9 @@
 		"statusBar.foreground": "#949db1",
 		"statusBarItem.hoverBackground": "#2C313A",
 		"statusBar.noFolderBackground": "#1b212c",
-		"tab.activeBackground": "#1F242E",
+		"tab.activeBackground": "#1F2632",
 		"tab.activeForeground": "#D7DAE0",
+		"breadcrumb.background": "#1F2632",
 		"tab.border": "#141820",
 		"tab.inactiveBackground": "#1b2022",
 		"tab.inactiveForeground": "#666f7e",
@@ -60,9 +61,9 @@
 		"titleBar.inactiveBackground": "#1b2022",
 		"titleBar.inactiveForeground": "#9DA5B4",
 		"statusBar.debuggingForeground": "#FFFFFF",
-		"peekViewTitle.background": "#1F242E",
-    "peekViewEditor.background": "#1F242E",
-		"peekViewEditorGutter.background": "#1F242E",
+		"peekViewTitle.background": "#1D232F",
+    "peekViewEditor.background": "#1D232F",
+		"peekViewEditorGutter.background": "#1D232F",
 		"peekViewResult.background": "#232934"
 	},
 	"tokenColors": [
@@ -1536,7 +1537,7 @@
 				"support.type.property-name.css"
 			],
 			"settings": {
-				"foreground": "#61d9e9"
+				"foreground": "#a8b5d0"
 			}
 		},
 		{

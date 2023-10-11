@@ -2,7 +2,7 @@
   "name": "one-dark-plus-theme",
   "displayName": "One Dark Plus Theme",
   "description": "A better color theme was optimized from One Dark Space Gray Theme",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "publisher": "Sikaco",
   "engines": {
     "vscode": "^1.83.0"
