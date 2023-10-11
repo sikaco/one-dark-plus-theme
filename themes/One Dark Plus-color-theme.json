@@ -141,7 +141,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"constant.variable"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -442,7 +442,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 				"meta.link"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -578,7 +578,7 @@
 				"markup.bold"
 			],
 			"settings": {
-				"foreground": "#d59b65",
+				"foreground": "#D79A65",
 				"fontStyle": "bold"
 			}
 		},
@@ -652,7 +652,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -880,7 +880,7 @@
 				"source.python variable.parameter"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -936,7 +936,7 @@
 			"name": "[VSCODE-CUSTOM] Support Constant",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1150,7 +1150,7 @@
 				"meta.array-binding-pattern-variable.tsx variable.other.readwrite.tsx"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1172,7 +1172,7 @@
 				"variable.other.constant.property.tsx"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1252,7 +1252,7 @@
 				"variable.other.constant.tsx"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1306,7 +1306,7 @@
 			"name": "[VSCODE-CUSTOM] Css Punctuation Definition Constant",
 			"scope": "punctuation.definition.constant.css",
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1320,7 +1320,7 @@
 			"name": "[VSCODE-CUSTOM] Sass Punctuation for constants",
 			"scope": "punctuation.definition.constant.scss",
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1362,7 +1362,7 @@
 			"name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
 			"scope": "punctuation.definition.bold.markdown",
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1436,7 +1436,7 @@
 			"name": "[VSCODE-CUSTOM] Ruby Other Constant Variable",
 			"scope": "variable.other.constant.ruby",
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
@@ -1474,7 +1474,7 @@
 				"variable.language.this.jsx"
 			],
 			"settings": {
-				"foreground": "#d59b65"
+				"foreground": "#D79A65"
 			}
 		},
 		{
