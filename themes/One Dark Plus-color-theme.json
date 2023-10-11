@@ -12,7 +12,7 @@
 		"diffEditor.insertedTextBackground": "#00809B33",
 		"dropdown.background": "#43484D",
 		"dropdown.border": "#181A1F",
-		"editor.background": "#1b2022",
+		"editor.background": "#1F242E",
 		"editor.lineHighlightBackground": "#2C313A",
 		"editor.selectionBackground": "#3E4451",
 		"editorCursor.foreground": "#528BFF",
@@ -50,7 +50,7 @@
 		"statusBar.foreground": "#949db1",
 		"statusBarItem.hoverBackground": "#2C313A",
 		"statusBar.noFolderBackground": "#1b212c",
-		"tab.activeBackground": "#212835",
+		"tab.activeBackground": "#1F242E",
 		"tab.activeForeground": "#D7DAE0",
 		"tab.border": "#141820",
 		"tab.inactiveBackground": "#1b2022",
@@ -96,7 +96,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 				"string"
 			],
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -643,7 +643,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -661,7 +661,7 @@
 				"markup.raw"
 			],
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -843,7 +843,7 @@
 				"source.json meta.structure.array.json > value.json > string.quoted.json > punctuation"
 			],
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -929,7 +929,7 @@
 			"name": "[VSCODE-CUSTOM] Punctuation for Quoted String",
 			"scope": "string.quoted.double punctuation",
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -1273,7 +1273,7 @@
 				"source.tsx meta.template.expression.tsx punctuation.accessor"
 			],
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -1369,7 +1369,7 @@
 			"name": "[VSCODE-CUSTOM] Markdown Inline Raw",
 			"scope": "markup.inline.raw.markdown",
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
@@ -1443,7 +1443,7 @@
 			"name": "[VSCODE-CUSTOM] Ruby Keyword Operator Other",
 			"scope": "keyword.operator.other.ruby",
 			"settings": {
-				"foreground": "#96d361"
+				"foreground": "#8FD361"
 			}
 		},
 		{
