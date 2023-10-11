@@ -6,4 +6,6 @@ It's more vibrant than `Atom One Dark` yet not as jarring as `One Dark Space Gra
 Specially optimized for daytime usage scenarios,
 you deserve to have it.
 
+![My Image](./preview.png)
+
 **Enjoy!**
