@@ -28,7 +28,7 @@
 		"editorSuggestWidget.border": "#181A1F",
 		"editorSuggestWidget.selectedBackground": "#2C313A",
 		"editorWidget.background": "#1b212c",
-		"input.background": "#1B1D23",
+		"input.background": "#1F242E",
 		"input.border": "#181A1F",
 		"focusBorder": "#528BFF",
 		"list.activeSelectionBackground": "#252d3b",
@@ -59,7 +59,11 @@
 		"titleBar.activeForeground": "#9DA5B4",
 		"titleBar.inactiveBackground": "#1b2022",
 		"titleBar.inactiveForeground": "#9DA5B4",
-		"statusBar.debuggingForeground": "#FFFFFF"
+		"statusBar.debuggingForeground": "#FFFFFF",
+		"peekViewTitle.background": "#1F242E",
+    "peekViewEditor.background": "#1F242E",
+		"peekViewEditorGutter.background": "#1F242E",
+		"peekViewResult.background": "#232934"
 	},
 	"tokenColors": [
 		{
