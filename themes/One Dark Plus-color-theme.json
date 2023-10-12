@@ -1229,7 +1229,8 @@
       "name": "[VSCODE-CUSTOM] JS/TS Support Variable Dom",
       "scope": [
         "support.variable.dom.js",
-        "support.variable.dom.ts"
+        "support.variable.dom.ts",
+        "support.variable.dom.tsx"
       ],
       "settings": {
         "foreground": "#e56674"
@@ -1239,7 +1240,8 @@
       "name": "[VSCODE-CUSTOM] JS/TS Support Variable Property Dom",
       "scope": [
         "support.variable.property.dom.js",
-        "support.variable.property.dom.ts"
+        "support.variable.property.dom.ts",
+        "support.variable.property.dom.tsx"
       ],
       "settings": {
         "foreground": "#e56674"
@@ -1408,7 +1410,7 @@
       "name": "[VSCODE-CUSTOM] JS/TS Keyword New",
       "scope": [
         "keyword.operator.new.ts",
-        "keyword.operator.new.j",
+        "keyword.operator.new.js",
         "keyword.operator.new.tsx"
       ],
       "settings": {
@@ -1440,7 +1442,8 @@
       "name": "[VSCODE-CUSTOM] JS/TS Import",
       "scope": [
         "constant.language.import-export-all.js",
-        "constant.language.import-export-all.ts"
+        "constant.language.import-export-all.ts",
+        "constant.language.import-export-all.tsx"
       ],
       "settings": {
         "foreground": "#e56674"
@@ -1496,7 +1499,8 @@
       "name": "[VSCODE-CUSTOM] JS/TS Export Variable",
       "scope": [
         "meta.export.default.js variable.other.readwrite.js",
-        "meta.export.default.ts variable.other.readwrite.ts"
+        "meta.export.default.ts variable.other.readwrite.ts",
+        "meta.export.default.ts variable.other.readwrite.tsx"
       ],
       "settings": {
         "foreground": "#e56674"
@@ -1684,7 +1688,8 @@
       "name": "[VSCODE-CUSTOM] JS/TS Variable Other Object",
       "scope": [
         "variable.other.object.js",
-        "variable.other.object.ts"
+        "variable.other.object.ts",
+        "variable.other.object.tsx"
       ],
       "settings": {
         "foreground": "#ABB2BF"
