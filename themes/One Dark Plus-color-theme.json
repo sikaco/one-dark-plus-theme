@@ -62,7 +62,7 @@
 		"titleBar.inactiveForeground": "#9DA5B4",
 		"statusBar.debuggingForeground": "#FFFFFF",
 		"peekViewTitle.background": "#1D232F",
-    "peekViewEditor.background": "#1D232F",
+		"peekViewEditor.background": "#1D232F",
 		"peekViewEditorGutter.background": "#1D232F",
 		"peekViewResult.background": "#232934"
 	},
@@ -961,8 +961,8 @@
 		{
 			"name": "[VSCODE-CUSTOM] JS/TS Punctuation for key-value",
 			"scope": [
-				"punctuation.separator.key-value.ts",
 				"punctuation.separator.key-value.js",
+				"punctuation.separator.key-value.ts",
 				"punctuation.separator.key-value.tsx"
 			],
 			"settings": {
@@ -990,22 +990,34 @@
 				"foreground": "#a8b5d0"
 			}
 		},
+		{
+			"name": "[VSCODE-CUSTOM] JS/TS Meta Object Literal Key",
+			"scope": [
+				"meta.object-literal.key.js",
+				"meta.object-literal.key.ts",
+				"meta.object-literal.key.tsx"
+			],
+			"settings": {
+				"foreground": "#a8b5d0"
+			}
+		},
 		// {
-    //   "name": "[VSCODE-CUSTOM] JS/TS Variable Other Object",
-    //   "scope": [
-    //     "variable.other.object.js",
-    //     "variable.other.object.ts",
-		// 		// "variable.other.object.tsx"
-    //   ],
-    //   "settings": {
-    //     "foreground": "#ABB2BF"
-    //   }
-  	// },
+		//   "name": "[VSCODE-CUSTOM] JS/TS Variable Other Object",
+		//   "scope": [
+		//     "variable.other.object.js",
+		//     "variable.other.object.ts",
+		// 		 "variable.other.object.tsx",
+		//   ],
+		//   "settings": {
+		//     "foreground": "#ABB2BF"
+		//   }
+		// },
 		{
 			"name": "[VSCODE-CUSTOM] JS/TS Support Variable Dom",
 			"scope": [
 				"support.variable.dom.js",
-				"support.variable.dom.ts"
+				"support.variable.dom.ts",
+				"support.variable.dom.tsx"
 			],
 			"settings": {
 				"foreground": "#e56674"
@@ -1112,14 +1124,14 @@
 			"name": "[VSCODE-CUSTOM] JS/TS Braces/Brackets",
 			"scope": [
 				"meta.brace.round.js",
-				"meta.array-binding-pattern-variable.js",
-				"meta.brace.square.js",
 				"meta.brace.round.ts",
-				"meta.array-binding-pattern-variable.ts",
-				"meta.brace.square.ts",
 				"meta.brace.round.tsx",
+				"meta.brace.square.js",
+				"meta.brace.square.ts",
+				"meta.brace.square.tsx",
+				"meta.array-binding-pattern-variable.js",
+				"meta.array-binding-pattern-variable.ts",
 				"meta.array-binding-pattern-variable.tsx",
-				"meta.brace.square.tsx"
 			],
 			"settings": {
 				"foreground": "#a8b5d0"
@@ -1183,8 +1195,8 @@
 		{
 			"name": "[VSCODE-CUSTOM] JS/TS Keyword New",
 			"scope": [
+				"keyword.operator.new.js",
 				"keyword.operator.new.ts",
-				"keyword.operator.new.j",
 				"keyword.operator.new.tsx"
 			],
 			"settings": {
@@ -1206,7 +1218,7 @@
 			"scope": [
 				"punctuation.separator.parameter.js",
 				"punctuation.separator.parameter.ts",
-				"punctuation.separator.parameter.tsx "
+				"punctuation.separator.parameter.tsx"
 			],
 			"settings": {
 				"foreground": "#a8b5d0"
@@ -1259,8 +1271,7 @@
 			"settings": {
 				"foreground": "#D79A65"
 			}
-		},
-		{
+		},		{
 			"name": "[VSCODE-CUSTOM] JS/TS Export Variable",
 			"scope": [
 				"meta.export.default.js variable.other.readwrite.js",
