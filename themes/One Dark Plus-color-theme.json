@@ -998,7 +998,7 @@
 				"meta.object-literal.key.tsx"
 			],
 			"settings": {
-				"foreground": "#a8b5d0"
+				"foreground": "#E56674"
 			}
 		},
 		// {
@@ -1229,7 +1229,6 @@
 			"scope": [
 				"constant.language.import-export-all.js",
 				"constant.language.import-export-all.ts",
-				"constant.language.import-export-all.jsx",
 				"constant.language.import-export-all.tsx"
 			],
 			"settings": {
